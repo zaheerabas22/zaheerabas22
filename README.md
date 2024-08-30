@@ -2,7 +2,6 @@
  <h1 align="center">Hi 👋, I'm Zaheer Abbas</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Android Kotlin
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: zaheerabas4014@gmail.com
 
